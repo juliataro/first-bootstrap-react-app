@@ -1,5 +1,4 @@
-import { height } from "dom-helpers";
-import React, { Component } from "react";
+import React from "react";
 import { ParallaxBanner } from "react-scroll-parallax";
 
 const Parallaximg = (props) => {
