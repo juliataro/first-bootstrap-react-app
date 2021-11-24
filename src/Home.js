@@ -15,6 +15,7 @@ export const Home = () => (
           justifyContent: "center",
           marginTop: "3rem",
           marginBottom: "2rem",
+          
         }}
       >
         3 places to visit in New York City
